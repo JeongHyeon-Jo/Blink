@@ -57,16 +57,28 @@ BLINK는 사용자들이 15초에서 3분 이내의 영상 콘텐츠를 제작�
 
 ### 검색 시스템
 - 최근/추천 검색어 제공
+<img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMjY2/MDAxNzQyMzcxNjc0OTcy.Ovwm1swKyPpnA2gBwpVH_iOxlZzp1lMcvbaT4b_OXDgg.nvDHXB2PUNyoXLEMJi5vqJ2vvaKPtqBn_kGb7UhXY9Ag.PNG/image.png?type=w966" width="300">
 - 사용자, 동영상, 해시태그 등 다양한 검색 옵션
+<img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMTY1/MDAxNzQyMzcxNjc0OTk3.lW8yiDABcYBpnYnE-bY79_snDI3FuY13_zUeNdbSpBkg.YGj1ARAgtlG_E-HISDn6s2LObyJig7NRf3ORncdIoXUg.PNG/Screenshot_1734008773.png?type=w966" width="300">
 - 검색 결과의 카테고리별 분류
 
 ### 포인트 시스템
 - 앱 사용에 따른 포인트 지급
 - 물 주기 기능을 통한 사용자 간 상호작용
+<img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMjM4/MDAxNzQyMzcxNjc1MDAz.iANxI4x6bnYpw6XeSMUlJZUIzf75N5JrEl1rHIcSUZsg.Uh4QqlglJeMtRzI9eXwIMFmTIe3cvmui2vWe_RENmTEg.PNG/Screenshot_1734008670.png?type=w966" width="300">
+<img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMjc3/MDAxNzQyMzcxNjc0OTg4.YLFqEfhtcnLWxcOTL2rWcKe1DAPkDbwhDGh4W65H8vgg.EUap20DRyTrBcX2eIDW2mhK0iiWx51WLAbblIM38N5Ug.PNG/Screenshot_1734008673.png?type=w966" width="300">
 
 ### 프로필 관리
 - 개인 프로필 정보 및 설명 편집
+<img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMjk5/MDAxNzQyMzcxNjc1NjEy.6MRzS1AL0zF9LMDLt8kBLnnjkXZoswCw2akkB-P2fUEg.G8oChBcv4RNAqds25uPY-dhNntqFY3wZzQnbiXjQsF8g.PNG/Screenshot_1734008168.png?type=w966" width="300"> <img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMjk5/MDAxNzQyMzcxNjc1NjEy.6MRzS1AL0zF9LMDLt8kBLnnjkXZoswCw2akkB-P2fUEg.G8oChBcv4RNAqds25uPY-dhNntqFY3wZzQnbiXjQsF8g.PNG/Screenshot_1734008168.png?type=w966" width="300"> <img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMTU3/MDAxNzQyMzcxNjc1NTgx.Y7bt8nilXgJEp0O6tSvg6wYV2jmrs9FR3CT9XBgqraMg.27rKnCLme3JsDmp1jPSUgXeuOUY_8b0KhYNxVZYGzUQg.PNG/Screenshot_1734008235.png?type=w966" width="300">
+- 설정 기능
+<img src="https://postfiles.pstatic.net/MjAyNTAzMTlfNzkg/MDAxNzQyMzcxNjc1NjI3.0R71pTPxXQ4TfZp9znOevUREeRYgXXItzZT5aTigGM4g.y7tYEvIvR525whTURyhXieuFD8NNmJw2MhoNz7svZoog.PNG/Screenshot_1734008318.png?type=w966" width="300">
 - 업로드한 동영상 목록 관리
+<img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMjEw/MDAxNzQyMzcxNjc0OTc3.ZWijBv3HAtt8kLhAyAu6FSrk13WZqs3HVYFX7hEgXpgg.-ET76j609g2ntXUpm9Ul7lj2pZ5CfpKo63lhGN3UhSkg.PNG/Screenshot_1734008406.png?type=w966" width="300">
+<img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMjg3/MDAxNzQyMzcxNjc1NjAw.K1b9XW05JOu8nSV3gWFsyKxtI8GYmFv5UD9wPMa4a18g.02hGQM7wgUmGQfiGTjWHnWmxU6UgpzFQrQVpBqeLvusg.PNG/Screenshot_1734008173.png?type=w966" width="300">
+<img src="https://postfiles.pstatic.net/MjAyNTAzMTlfNzMg/MDAxNzQyMzcxNjc0OTY1.sjyaPqq2J3GSA-oP_ck_zja5h_02PwdvccIJHnxr0rAg.4bkZCSGv80VNEQo6BH6WtuYAuejcQM-N0B5rtH4QylAg.PNG/Screenshot_1734008409.png?type=w966" width="300">
+- 시청 기록 관리
+- <img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMjU3/MDAxNzQyMzcxNjc1NzM1.bOkdyFKZxQD6e1JNSoAMos0VXWIfYyxlwsrcH3kATKcg.A1XEogFzEt4jtioTxWPA6QursV-e5RW_9upNrhI4_osg.PNG/Screenshot_1734008379.png?type=w966" width="300">
 - 팔로워/팔로잉 관리
 - 프로필 링크 공유
 
