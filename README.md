@@ -39,23 +39,12 @@ BLINK는 사용자들이 15초에서 3분 이내의 영상 콘텐츠를 제작�
     - 내 동영상 관리 / 동영상 정보 수정
   - 추천 알고리즘
 
-## 주요 기능
-
+## 담당 기능 📌
 ### 사용자 인증 시스템
-- 이메일/비밀번호 기반의 로그인 및 회원가입
 - 게스트 모드를 통한 비로그인 사용자 서비스 이용
+  - 비로그인 유저와 로그인 유저의 동영상 [추천 알고리즘 구현](https://plume-eggplant-120.notion.site/BLINK-1b4a75315bc180c2a18ec53d16e810cf?pvs=4)
 
-### 홈 피드 및 동영상 추천
-- 추천/팔로잉/최신 탭을 통한 맞춤형 콘텐츠 제공
-- 사용자 행동 기반 추천 알고리즘 적용(조회수, 좋아요, 댓글 등)
-- 좋아요, 댓글, 공유 등 소셜 인터랙션 기능
-
-### 동영상 업로드 및 편집
-- 카메라로 직접 촬영 또는 갤러리에서 영상 선택
-- 카테고리 지정 및 해시태그 추가
-- 간단한 컷 편집 기능
-
-### 검색 시스템
+### 검색 시스템 🔎
 - 최근/추천 검색어 제공
 <img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMjY2/MDAxNzQyMzcxNjc0OTcy.Ovwm1swKyPpnA2gBwpVH_iOxlZzp1lMcvbaT4b_OXDgg.nvDHXB2PUNyoXLEMJi5vqJ2vvaKPtqBn_kGb7UhXY9Ag.PNG/image.png?type=w966" width="200">
 
@@ -63,13 +52,13 @@ BLINK는 사용자들이 15초에서 3분 이내의 영상 콘텐츠를 제작�
 - 검색 결과의 카테고리별 분류
 <img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMTY1/MDAxNzQyMzcxNjc0OTk3.lW8yiDABcYBpnYnE-bY79_snDI3FuY13_zUeNdbSpBkg.YGj1ARAgtlG_E-HISDn6s2LObyJig7NRf3ORncdIoXUg.PNG/Screenshot_1734008773.png?type=w966" width="200">
 
-### 포인트 시스템
+### 포인트 시스템 🛒
 - 앱 사용에 따른 포인트 지급
 - 물 주기 기능을 통한 사용자 간 상호작용
   
 <img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMjM4/MDAxNzQyMzcxNjc1MDAz.iANxI4x6bnYpw6XeSMUlJZUIzf75N5JrEl1rHIcSUZsg.Uh4QqlglJeMtRzI9eXwIMFmTIe3cvmui2vWe_RENmTEg.PNG/Screenshot_1734008670.png?type=w966" width="200"> <img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMjc3/MDAxNzQyMzcxNjc0OTg4.YLFqEfhtcnLWxcOTL2rWcKe1DAPkDbwhDGh4W65H8vgg.EUap20DRyTrBcX2eIDW2mhK0iiWx51WLAbblIM38N5Ug.PNG/Screenshot_1734008673.png?type=w966" width="200">
 
-### 프로필 관리
+### 프로필 관리 ⚙
 - 개인 프로필 정보 및 설명 편집
 - 팔로워/팔로잉 관리
 - 프로필 링크 공유
@@ -86,14 +75,26 @@ BLINK는 사용자들이 15초에서 3분 이내의 영상 콘텐츠를 제작�
 - 시청 기록 관리
 <img src="https://postfiles.pstatic.net/MjAyNTAzMTlfMjU3/MDAxNzQyMzcxNjc1NzM1.bOkdyFKZxQD6e1JNSoAMos0VXWIfYyxlwsrcH3kATKcg.A1XEogFzEt4jtioTxWPA6QursV-e5RW_9upNrhI4_osg.PNG/Screenshot_1734008379.png?type=w966" width="200">
 
+## 그 외 기능
+
+### 사용자 인증 시스템
+- 이메일/비밀번호 기반의 로그인 및 회원가입
+
+### 홈 피드 및 동영상 추천
+- 추천/팔로잉/최신 탭을 통한 맞춤형 콘텐츠 제공
+- 사용자 행동 기반 추천 알고리즘 적용(조회수, 좋아요, 댓글 등)
+- 좋아요, 댓글, 공유 등 소셜 인터랙션 기능
+
+### 동영상 업로드 및 편집
+- 카메라로 직접 촬영 또는 갤러리에서 영상 선택
+- 카테고리 지정 및 해시태그 추가
+- 간단한 컷 편집 기능
+
 ## 개발 프로세스
 - GitLab의 Issue와 Milestone 기능을 활용한 체계적인 협업
 - 테스트 케이스 작성과 QA 진행을 통한 안정적인 서비스 품질 확보
 
 ## 프로젝트 데모
 [데모 영상 보기](https://www.youtube.com/watch?v=rjbsGv-NxRM)
-
-## 저장소
-[GitHub 저장소](https://github.com/JeongHyeon-Jo/Blink/tree/main)
 
 ---
