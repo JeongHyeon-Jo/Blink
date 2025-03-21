@@ -5,19 +5,6 @@ Flutter와 Firebase를 활용한 숏폼 동영상 공유 플랫폼
 ## 프로젝트 기간
 - 2024.10.28 ~ 2024.12.09 (2주)
 
-## 기술 스택
-- **프레임워크:** Flutter
-- **프로그래밍 언어:** Dart
-- **아키텍처:** BLoC Clean Architecture
-- **백엔드 및 서비스:**
-  - Firebase Authentication
-  - Cloud Firestore
-  - Cloud Functions
-- **라이브러리:**
-  - go_router
-  - cloud_firestore
-  - cloud_functions
-
 ## 프로젝트 개요
 BLINK는 사용자들이 15초에서 3분 이내의 영상 콘텐츠를 제작하고 공유할 수 있는 짧은 동영상 공유 플랫폼 앱입니다. 개인화된 콘텐츠 추천과 소셜 인터랙션 기능을 통해 최적화된 사용자 경험을 제공합니다.
 
@@ -93,6 +80,19 @@ BLINK는 사용자들이 15초에서 3분 이내의 영상 콘텐츠를 제작�
 ## 개발 프로세스
 - GitLab의 Issue와 Milestone 기능을 활용한 체계적인 협업
 - 테스트 케이스 작성과 QA 진행을 통한 안정적인 서비스 품질 확보
+
+## 기술 스택
+- **프레임워크:** Flutter
+- **프로그래밍 언어:** Dart
+- **아키텍처:** BLoC Clean Architecture
+- **백엔드 및 서비스:**
+  - Firebase Authentication
+  - Cloud Firestore
+  - Cloud Functions
+- **라이브러리:**
+  - go_router
+  - cloud_firestore
+  - cloud_functions
 
 ## 프로젝트 데모
 [데모 영상 보기](https://www.youtube.com/watch?v=rjbsGv-NxRM)
